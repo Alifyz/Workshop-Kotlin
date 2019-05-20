@@ -12,7 +12,7 @@ Os links abaixo correspondem aos exercícios propostos e desenvolvidos pela JetB
 
 2 - Crie uma branch com o seguinte template:  codelab/nome
 
-3 - Escreva o seu código no Site online, e salve um arquivo .kt com o nome do exercício. 
+3 - Escreva o seu código no Site online para testar a solução e salve um arquivo .kt com o nome do exercício. 
 
 4 - Abra um pull-request para a branch master para avaliação. 
 
